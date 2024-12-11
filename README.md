@@ -1,0 +1,2 @@
+# Haskell Maximum on Empty List
+This repository demonstrates a common runtime error in Haskell when using the `maximum` function on an empty list.  The `bug.hs` file contains the erroneous code, which throws an exception. The `bugSolution.hs` file provides a corrected version that handles the empty list case gracefully. This example highlights the importance of handling potential errors, especially when working with functions that may receive empty data structures.
